@@ -1,3 +1,3 @@
 # bootstrap-practice
 
-![Bootstrap Practice](BootstrapPractice.png)
+![Bootstrap Practice](./assets/images/BootstrapPractice.png)
